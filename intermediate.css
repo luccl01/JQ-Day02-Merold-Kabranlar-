@@ -1,0 +1,15 @@
+img{
+	width: 10em;
+	height: 10em;
+	object-fit: cover;
+}
+
+.members{
+	flex-basis: 30%;
+}
+
+#album{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}

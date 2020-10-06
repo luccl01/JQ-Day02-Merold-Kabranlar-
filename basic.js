@@ -9,7 +9,9 @@ $('.bell').on('click', function(){
 // })
 
 $('.santa').on('click', function(){
-    $(this).css('display','none')
+    //$(this).css('display','none')
+    $(this).slideUp(2000);
+    // fadeOut(2000);
 })
 
 

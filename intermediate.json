@@ -1,0 +1,46 @@
+var family = `[{
+	"name" : "Bob",
+	"image" : "https://cdn.iconscout.com/icon/free/png-256/father-1594480-1348589.png",
+	"relation" : "Dad",
+	"age" : "55"
+},{
+	"name" : "Bobette",
+	"image" : "https://penfieldbuildingblocks.org/wp-content/uploads/2018/08/the-mother-child-relationship.jpg",
+	"relation" : "Mum",
+	"age" : "50"
+},{
+	"name" : "Karl",
+	"image" : "https://upload.wikimedia.org/wikipedia/de/a/a9/Karli_Sohn_Rethel_gemalt_portr%C3%A4tiert_Werner_Heuser_um_1903.jpg",
+	"relation" : "Uncle",
+	"age" : "57"
+},{
+	"name" : "Karlette",
+	"image" : "https://www.mentalmovement.co.uk/wp-content/uploads/2017/11/karlette1.jpg",
+	"relation" : "Aunt",
+	"age" : "59"
+},{
+	"name" : "Sven",
+	"image" : "https://www.haz.de/var/storage/images/haz/nachrichten/kultur/region/berghain-tuersteher-sven-marquardt-fotografiert-fuer-die-staatsoper-hannover/718655004-2-ger-DE/Berghain-Tuersteher-Sven-Marquardt-fotografiert-fuer-die-Staatsoper_big_teaser_article.jpg",
+	"relation" : "Cousin",
+	"age" : "30"
+},{
+	"name" : "Svenlana",
+	"image" : "https://pbs.twimg.com/profile_images/295315592/______________113_400x400.jpg",
+	"relation" : "Cousin",
+	"age" : "28"
+},{
+	"name" : "Claudia",
+	"image" : "https://upload.wikimedia.org/wikipedia/commons/b/b7/%C3%96sterreichischer_Filmpreis_2015_Claudia_Linzer.jpg",
+	"relation" : "Sister",
+	"age" : "29"
+},{
+	"name" : "Claude",
+	"image" : "https://de.web.img2.acsta.net/c_215_290/pictures/15/07/27/15/10/119263.jpg",
+	"relation" : "Brother in law",
+	"age" : "60"
+},{
+	"name" : "Claudette",
+	"image" : "https://www.vorname.com/cache/inline-images/claudette-images-name-moods-namensbild-c-w-jpg.w.40.600.png",
+	"relation" : "Niece",
+	"age" : "1"
+}]`;
