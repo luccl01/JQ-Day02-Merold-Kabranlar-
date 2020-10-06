@@ -13,5 +13,14 @@ console.table (container)
 
 for (i=0; i<10; i++){
     console.log (container[i])
-    $(`#gray`).append(`<div class = "grayElement" serri="${i}">${container[i]}</div>`)
+    $(`#gray`).append(`<div class = "grayElement" draggable="true" serri="${i}">${container[i]}</div>`)
 }
+
+
+function init() {
+    $('#makeMeDraggable').draggable( {
+      containment: '#content',
+      cursor: 'move',
+      snap: '#content'
+    } );
+  }
