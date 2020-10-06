@@ -1,0 +1,31 @@
+#gray {
+    width: 90%;
+    margin: auto;
+    border: 1px solid black;
+    display: flex;
+}
+
+.grayElement{
+    border: 1px solid green;
+    padding: 1em;
+    display: flex;
+    flex-basis: 10%;
+    justify-content: center;
+
+
+}
+
+#colors {
+    width: 90%;
+    margin: auto;
+    border: 1px solid red;
+    display: flex;
+}
+
+.colorElement{
+    border: 1px solid green;
+    padding: 1em;
+    display: flex;
+    flex-basis: 10%;
+    justify-content: center;
+}
